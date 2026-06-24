@@ -67,6 +67,7 @@ If you would like to add to the list, please see our [contribution guidelines](.
   - [Design](#design)
   - [Security](#security)
   - [Technologies](#technologies)
+  - [AI Development](#ai-development)
   - [General Dev](#general-dev)
   - [General Testing & QA](#general-testing--qa)
   - [Intro to Dev & Learning](#intro-to-dev--learning)
@@ -534,6 +535,10 @@ Below are some other interesting Slack channels for different technologies and p
 - [Socket.io](https://slackin-socketio.now.sh/)
 - [Firebase](https://firebase.community/)
 - [HoloLens](https://holodevelopersslack.azurewebsites.net/)
+
+## AI Development
+- [House of Vibes](https://discord.gg/cNNDhQ6KD)
+- [Furlough](https://discord.gg/XDRuUX36t)
 
 ## General Dev
 
